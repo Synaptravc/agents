@@ -1,0 +1,5 @@
+{
+    "task": "solution_config/task.json",
+    "agent_team": "solution_config/agent_team.json",
+    "sop": "solution_config/sop.json"
+}
